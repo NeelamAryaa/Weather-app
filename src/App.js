@@ -32,15 +32,9 @@ function App() {
             alert("Something went wrong");
           })
         }
-    };
+    }; 
 
- 
-  
-
-
-  
-
-  console.log(weather)
+  // console.log(weather)
   return (
     <div className={(typeof weather.main != "undefined") 
       ? ((weather.main.temp > 16) 

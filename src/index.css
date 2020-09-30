@@ -18,18 +18,18 @@ body {
 }
 
 .app {
-  background-image: url("./assets/landscape-922581_1920.png");
+  background-image: url("./assets/landscape_922581_192_iSQlt.jpg");
   background-position: bottom;
   background-size: cover;
   transition: 0.4s ease-out ;
 }
 
 .app.warm {
-  background-image: url("./assets/spring-276014_1920.jpg");
+  background-image: url("./assets/spring_276014_1920_m_hhBZL.jpg");
 }
 
 .app.cold {
-  background-image: url("./assets/christmas-3864552_1920.jpg");
+  background-image: url("./assets/christmas_3864552_19_4Qv6U.jpg");
 }
 
 main {

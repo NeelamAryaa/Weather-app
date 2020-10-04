@@ -19,23 +19,23 @@ body {
 
 .app {
   background-color: #aebecc;
-  background-image: url("./assets/landscape_922581_192_iSQlt.jpg");
+  background-image: url("./assets/sky-3027856_640.jpg");
   background-position: bottom;
   background-size: cover;
   transition: 0.2s ease-out ;
 }
 
 .app.warm {
-  background-image: url("./assets/spring_276014_1920_m_hhBZL.jpg");
+  background-image: url("./assets/spring-276014_640.jpg");
 }
 
 .app.cold {
-  background-image: url("./assets/christmas_3864552_19_4Qv6U.jpg");
+  background-image: url("./assets/christmas-3864552_640.jpg");
 }
 
 main {
   min-height: 100vh;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
   padding: 25px;
 }
 
@@ -118,13 +118,13 @@ main {
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
 
-@media screen and (max-width: 576px) {
+/* @media screen and (max-width: 576px) {
   .app.warm {
-    background-image: url("./assets/landscape_922581_192_iSQlt.jpg");
+    background-image: url("./assets/sky-3027856_640.jpg");
   }
   .app.cold {
-    background-image: url("./assets/landscape_922581_192_iSQlt.jpg");
+    background-image: url("./assets/sky-3027856_640.jpg");
   }
-}
+} */
 
 

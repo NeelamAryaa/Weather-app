@@ -118,13 +118,13 @@ main {
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
 
-/* @media screen and (max-width: 576px) {
+@media screen and (max-width: 576px) {
   .app.warm {
     background-image: url("./assets/sky-3027856_640.jpg");
   }
   .app.cold {
     background-image: url("./assets/sky-3027856_640.jpg");
   }
-} */
+}
 
 
